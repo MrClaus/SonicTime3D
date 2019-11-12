@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: MobileBASIC IDE (http://mbteam.ru)
+MIDlet-1: Somic-Time-3D,icon.png,Main
+MIDlet-Vendor: MR.GIFO
+MIDlet-Version: 0.1
+MIDlet-Name: Somic-Time-3D
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+FullScreenMode: true
